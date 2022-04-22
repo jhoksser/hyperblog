@@ -1,0 +1,37 @@
+[33mcommit d9d9ff453af6e427d796cafb5b0b1672f6ef001e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jhoksser <jhoksser.mejia@ucp.edu.co>
+Date:   Thu Apr 21 21:40:25 2022 -0500
+
+    comitt al master
+
+ blogpost.html | 1 [32m+[m
+ estilos.css   | 2 [32m+[m[31m-[m
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 7651634c968ca2583644aee1cf38da018b901870[m
+Author: jhoksser <jhoksser.mejia@ucp.edu.co>
+Date:   Thu Apr 21 21:05:34 2022 -0500
+
+    arranco mi proyecto real con html y css
+
+ blogpost.html | 13 [32m+++++++++++++[m
+ estilos.css   |  4 [32m++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 9f28a31ed6ca8595183487b1fd67674c375cf748[m
+Author: jhoksser <jhoksser.mejia@ucp.edu.co>
+Date:   Thu Apr 7 12:03:57 2022 -0500
+
+    cambios a la edad correcta
+
+ historia.txt | 5 [32m++++[m[31m-[m
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+[33mcommit 535eafc431ee323eaad471b78fca7102fc2728b3[m
+Author: jhoksser <jhoksser.mejia@ucp.edu.co>
+Date:   Thu Apr 7 11:54:15 2022 -0500
+
+    este es el primer commit
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
